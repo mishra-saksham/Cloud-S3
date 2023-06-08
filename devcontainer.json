@@ -1,0 +1,11 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "extensions" : [
+   "GitHub.copilot-nightly",
+   "GitHub.copilot-chat",
+   "GitHub.copilot-labs",
+   "ms-azuretools.vscode-docker"
+  ] 
+}
